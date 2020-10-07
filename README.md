@@ -1,2 +1,3 @@
 # LearnJavascript
-Learning Javascript by writing some code.
+Learning Javascript.
+Javascript is a language that decides the behaviour of the elements in a particular page.
